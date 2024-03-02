@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 calculate_age_statistics <- function(age_vector) {
   # Check if input is numeric vector
   if (!is.numeric(age_vector)) {
@@ -15,3 +16,8 @@ calculate_age_statistics <- function(age_vector) {
   ))
 }
 
+=======
+a <- 120
+b <- 140
+b
+>>>>>>> ec312f135bf7d21316585068ecfc474e5db095cf
